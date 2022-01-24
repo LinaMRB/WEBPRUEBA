@@ -14,3 +14,10 @@ text-align: center;
 color: rgb(81, 103, 104);
 
 }
+h2{
+    text-align: left;
+    color: rgb(138, 169, 170);
+}
+p{
+    text-align: justify;
+}
